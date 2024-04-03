@@ -14,7 +14,6 @@
   "license": "ISC",
   "keywords": [],
   "dependencies": {
-    "atm-machine-by-paree": "^1.0.0",
     "atm-machine-by-pareeshay": "^1.0.0",
     "inquirer": "^9.2.17"
   },
