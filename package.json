@@ -1,5 +1,5 @@
 {
-  "name": "atm-machine-by-paree",
+  "name": "atm-machine-by-pareeshay",
   "version": "1.0.0",
   "description": "This repository is designed to show Atm machine transactions.",
   "main": "Atm.js",
@@ -14,6 +14,7 @@
   "license": "ISC",
   "keywords": [],
   "dependencies": {
+    "atm-machine-by-paree": "^1.0.0",
     "inquirer": "^9.2.17"
   },
   "devDependencies": {
