@@ -1,11 +1,11 @@
 {
-  "name": "paree-atm-machine",
-  "version": "1.0.1",
+  "name": "pareeshay-atm-machine",
+  "version": "1.0.0",
   "description": "This repository is designed to show Atm machine transactions.",
   "main": "Atm.js",
   "type": "module",
   "bin": {
-    "paree-atm-machine": "Atm.js"
+    "pareeshay-atm-machine": "Atm.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,7 +14,7 @@
   "license": "MIT",
   "keywords": [],
   "dependencies": {
-    "parees-atm-machine": "^1.0.0",
+    "pareeshay-atm-machine": "^1.0.0",
     "inquirer": "^9.2.17"
   },
   "devDependencies": {
